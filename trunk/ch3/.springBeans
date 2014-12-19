@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.6.2.201410090854-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/resources/META-INF/spring/xml-bean-factory-config.xml</config>
+		<config>src/main/resources/META-INF/spring/xml-context-annotation.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-InjectSimple.xml</config>
+		<config>src/main/resources/META-INF/spring/injectingValuesBySpEL.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-injectRef.xml</config>
+		<config>src/main/resources/META-INF/spring/parent.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-child.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-injectCollection.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-injectCollection-annotation.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-lookupMethodInjection.xml</config>
+		<config>src/main/resources/META-INF/spring/app-context-xml-methodReplacement.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
